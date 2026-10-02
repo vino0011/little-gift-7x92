@@ -1,0 +1,6 @@
+YOUR LITTLE GIFT
+
+Upload this entire extracted folder to static hosting. Send her the HTTPS link, not this ZIP.
+Edit config.js for all names, captions, themes, and letters. Or add ?edit=1 to your hosted URL to reopen the editor.
+No-index is not security. Use host-level access control for real privacy.
+Keep the media folders alongside index.html.
